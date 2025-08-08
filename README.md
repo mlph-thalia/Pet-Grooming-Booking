@@ -19,3 +19,5 @@ Tailwind CSS
 Material UI
 MongoDB (for service bookings)
 PNPM (as the package manager)
+
+create a .env file at the root file and add this secret number MONGODB_URI=mongodb+srv://thaliaebus:0qC6149lYIDiPLJm@cluster0.rvmhczj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
